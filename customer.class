@@ -1,0 +1,7 @@
+public class Customer {
+  private int loyaltyPoint;
+
+  public Customer(int loyaltyPoint) {
+    this.loyaltyPoint = loyaltyPoint;
+  }
+}
